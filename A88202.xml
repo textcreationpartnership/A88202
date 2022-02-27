@@ -1,0 +1,404 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ionahs cry out of the whales belly: or, Certaine epistles writ by Lieu. Coll. Iohn Lilburne, unto Lieu. Generall Cromwell, and Mr. John Goodwin: complaining of the tyranny of the Houses of Lords and Commons at Westminster; and the unworthy dealing of divers (of those with him that are called) his friends. To the man whom God hath honoured, and will further honour, if he continue honouring him, Lieu. Generall Cromwell at his house in Drury Lane, neare the red-Lion this present.</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88202</idno>
+            <idno type="STC">Wing L2122</idno>
+            <idno type="STC">Thomason E400_5</idno>
+            <idno type="STC">ESTC R201740</idno>
+            <idno type="EEBO-CITATION">99862240</idno>
+            <idno type="PROQUEST">99862240</idno>
+            <idno type="VID">160397</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88202)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160397)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E400[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ionahs cry out of the whales belly: or, Certaine epistles writ by Lieu. Coll. Iohn Lilburne, unto Lieu. Generall Cromwell, and Mr. John Goodwin: complaining of the tyranny of the Houses of Lords and Commons at Westminster; and the unworthy dealing of divers (of those with him that are called) his friends. To the man whom God hath honoured, and will further honour, if he continue honouring him, Lieu. Generall Cromwell at his house in Drury Lane, neare the red-Lion this present.</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 26 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657 --  Imprisonment --  Early works to 1800.</term>
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Civil rights --  England --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:160397:1" rendition="simple:additions"/>
+            <head>IONAHS <hi>Cry out of the Whales belly:</hi> Or, Certaine Epiſtles writ by Lieu. Coll. <hi>Iohn Lilburne,</hi> unto Lieu. Generall <hi>Cromwell,</hi> and Mr. <hi>John Goodwin:</hi> Complai<g ref="char:EOLhyphen"/>ning of the tyranny of the Houſes of Lords and Com<g ref="char:EOLhyphen"/>mons at <hi>Weſtminſter;</hi> and the unworthy dealing of di<g ref="char:EOLhyphen"/>vers (of thoſe with him that are called) his Friends.</head>
+            <bibl>
+               <hi>Jonah. 2.2, 3, 4.</hi>
+            </bibl>
+            <p>I cryed, by reaſon of mine affliction, unto the Lord, and he heard me; out of the belly of hell cryed I, and thou heardeſt my voice.</p>
+            <p>For thou hadſt caſt me into the deepe, in the midſt of the ſeas, and the floods compaſſed mee about: all thy billowes and thy waves paſſed over me.</p>
+            <p>Then I ſaid, I am caſt out of thy ſight, yet <hi>I</hi> will looke againe towards thy holy Temple.</p>
+            <bibl>
+               <hi>Jer. 20 10, 11, 12.</hi>
+            </bibl>
+            <p>For I heard the defaming of many, feare on every ſide. Report, ſay they, and we will report it: all my familiars watched for my halting, ſaying, peradventure he will be intiſed, and we ſhall prevaile againſt him, and we ſhall take our revenge on him.</p>
+            <p>But the Lord is with mee, as a mighty terrible one: therefore my perſecuters ſhal ſtum<g ref="char:EOLhyphen"/>ble, and they ſhal not prevaile, they ſhal be greatly aſhamed, for they ſhal not proſper, their everlaſting confuſion ſhal never be forgotten.</p>
+            <p>But, O Lord of hoſts, that trieſt the righteous, and ſeeſt the raines and the heart, let me ſee thy vengeance on them: for unto thee <hi>I</hi> have opened my cauſe.</p>
+            <bibl>
+               <hi>Micah. 7.5.</hi>
+            </bibl>
+            <p>Truſt yee not in a friend, put yee not confidence in a guide.</p>
+            <bibl>
+               <hi>Eſay 63.9.</hi>
+            </bibl>
+            <p>In all their afflictions he was afflicted, and the Angell of his preſence ſaved them, in his love, and in his pitie he redeemed them.</p>
+            <div type="letter">
+               <head>TO THE MAN WHOM GOD HATH honoured, and will further honour, if he continue honouring him, Lieu. Generall <hi>Cromwell</hi> at his houſe in Drury Lane, neare the red-Lion this preſent.</head>
+               <opener>
+                  <salute>Much honored Sir,</salute>
+               </opener>
+               <p>IT is the ſaying of the wiſe man, <hi>That he that rewardeth evill for good, evill ſhall never depart from his houſe,</hi> the juſtneſſe of which divine ſentence ingraven in na<g ref="char:EOLhyphen"/>ture, hath even ingaged morall Heathens to a gratefull acknowledgement of favours re<g ref="char:EOLhyphen"/>ceived, and hath been a ſufficient obligation conſcientiouſly to ty them, to acts of retri<g ref="char:EOLhyphen"/>bution
+<pb n="2" facs="tcp:160397:2"/>
+to thoſe for whom they have received them; and therefore (not only below a Chriſtian, but a very morall Heathen, and Pagan ſhould I judge my ſelfe if <hi>I</hi> ſhould bee forgetfull of your ſeaſonable favours, much more if <hi>I</hi> ſhould returne contrary effects unto you, which with all thankfullneſſe <hi>I</hi> muſt acknowledge, <hi>tooke compaſſion <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> mee in my bonds and chaines even when I was at deaths doore, and was principally inſtrumentall in de<g ref="char:EOLhyphen"/>livering me from</hi> the very gates of death, <hi>in Anno</hi> 1640. <hi>and ſetting me free from the long and heavy Tyranny of the Biſhops and Starchamber, even at that time when I was almoſt ſpent,</hi> which to me is ſo large an Obligation that <hi>I</hi> thinke while I live it will be engraven upon my heart as with the point of a <hi>Diamond,</hi> many particular reſpects ſince then, I muſt inge<g ref="char:EOLhyphen"/>niouſly confeſſe I have cauſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to take notice of from you; and one large one of late ſince <hi>I</hi> came into preſent capti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies, which was for that large token you ſent me, for which now in writing I returne you many thanks.</p>
+               <p>Sir <hi>I</hi> dare not now by way of boaſting take upon me to enumerate my hazardous acti<g ref="char:EOLhyphen"/>ons, which hath flowed from the truth of my affections to you in doing you reall and faithfull ſervice, in maintaining the honour of your perſon, and your juſt intereſt, which was all the retrabution, that I in my poore condition, could anſwer all your kindeneſſes with, and truly if I be not miſtaken I thinke I have been <hi>faithfull, cordiall, harty,</hi> ſincere and hazardious, in diſchaging my ingaged affection and duty to you, and the more high hath my thoughts been towards you, for that <hi>I</hi> have apprehended in you, in your ſervice abroad, an affectionate, cordiall, and free hearted ſpirit to the poore people of God: unto whom in times by paſt you have been as a Sanctuary, and hiding place, and God hath honoured you ſufficiently for it, not only in giving you extraordinary large <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oome in the affections of thouſands, and ten thouſands of his choſen ones, <hi>but in hang<g ref="char:EOLhyphen"/>ing upon your ba<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k the glory of all their atcheivements,</hi> by meanes of which you have been made mighty and great, formidable and dreadfull in the eyes of the great ones of the world, and truly my ſelfe and all others of my mind that I could ſpeak with, have looked upon you as the moſt abſolute ſingle hearted great man in <hi>England,</hi> untainted or unbiaſed with ends of your owne. But deare Sir, give him leave that preſumeth to ſay and that without flatery, he honoureth you as he doth his owne life and being, that look<g ref="char:EOLhyphen"/>ing as a dilligent ſpectator upon your actions and carriages, for this many moneths toge<g ref="char:EOLhyphen"/>ther, It hath ſtruck him into an amaſe, and filled his ſpirit as full of boylings and turmoyl<g ref="char:EOLhyphen"/>ings as ever <hi>Jeremiahs</hi> was, when he ſaid <hi>thy word is within me like a burning fire, ſhut up in my bones, and I am weary with forbearing,</hi> and I could not ſtay <hi>Jer.</hi> 20.9. and truly Sir I was in paines and travell how to behave my ſelfe towards you, and faine I would have writ my minde freely and plainly unto you, but truly unto my owne ſhame I muſt re<g ref="char:EOLhyphen"/>ally acknowledge, <hi>I have been like Jonah who fled from the preſence of God and the Errand he had to imploy him upon.</hi> Jonah, 1.3. &amp;c. and I have withſtood thoſe many pricking moti<g ref="char:EOLhyphen"/>tions, which I beleeve flowed from his ſpirit, and have either too much preferred my own ends, or my baſe carnall reaſons, before the Dictates of God, but now am not able for all the world to forbeare any longer, being lately forced, <hi>nolens volens,</hi> without reſt or ſleep, moſt ſeriouſly to meditate upon theſe following ſayings of God, Exodus 23.6.7.8. <hi>Thou ſhalt not wreſt the judgement of the poore in his cauſe. Keep thee farre from a falſe matter, and the innocent and the righteous ſlay thou not: For I will not juſtifie the wicked. Thou ſhalt take no gift: for the gift blindeth the wiſe, and perverteth the words of the righte<g ref="char:EOLhyphen"/>ous.</hi> O deere <hi>Cromwell,</hi> the Lord open thy eyes, and make thy heart ſenſible of thoſe ſnares that are laid for thee in that vote of the Houſe of Commons of two thouſand five hundred pounds per annum.</p>
+               <pb n="3" facs="tcp:160397:2"/>
+               <p>And Deut. 16.19. God ſaith expreſly, <hi>Thou ſhalt not wreſt judgement, thou ſhalt not re<g ref="char:EOLhyphen"/>ſpect perſons, neither take a gift: For a gift doth blind the eyes of the wiſe, and pervert the words of the righteous.</hi> And truly being very fearfull and jealous in my own ſoule, that ſome of my true friends, with whom I have talked of your ſelfe very freely of late, ſhould ſhortly hit me in the teeth by reaſon of my ſilence to you, and too juſtly upbrayd me with that ſaying of <hi>Eccleſiaſticus,</hi> chap. 20 verſ, 29. <hi>Preſents and gifts bl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nd the eyes of the wiſe, and ſtop his mouth that he cannot reprove.</hi> And therefore, Sir, give me leave to ſay un<g ref="char:EOLhyphen"/>to you in the wards of <hi>Iob,</hi> chap 32.21, 22. <hi>Let me not, pray you, accept any mans perſon, neither let me give flattering titles unto man, for I know not to give flatering titles; in ſo doing my maker would ſoon take me away.</hi> Now deer Sir, knowing that you cannot but know, that it is a ſaying of the Spirit of God, <hi>That faithfull are the wounds of a Friend, but deceitfull are the k<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſſes of an Enemy.</hi> I come now downright to unbowell my mind unto you and truly to tell you, that in my thoughts I look upon the redeemed ones of Ieſus Chriſt in England, in as low and ſad a condition, almoſt as the Iews were in the third of <hi>Eſther,</hi> when <hi>Haman</hi> upon this falſe ſuggeſtion to K <hi>Haſhueroſh,</hi> [That there is a certain people ſcattered abroad, and diſperſed amongſt the people in all the provinces of the Kingdome, and their lawes are divers from all people, neither keep they the Kings lawes, therefore it is not for the Kings profit to ſuffer them] had obtained a Decree to deſtroy them all; and therefore as poore <hi>Mordicai</hi> in the bitterneſſe of his ſpirit in the fourth chapter, ſayd unto Queen <hi>Eſther,</hi> ſo ſay I to thee, thou great man <hi>Cromwell,</hi> Think not with thyſelf, that thou ſhalt eſcape in the Parliament Houſe, more then all the reſt of the Lambs poore deſpiſed redeemed ones, and therefore, O <hi>Cromwell,</hi> if thou altoge<g ref="char:EOLhyphen"/>ther holdeſt thy peace, (or ſtoppeſt or undermineſt as thou doſt, our and the Armies pe<g ref="char:EOLhyphen"/>titions) at this time then ſhall enlargement and deliverance ariſe to us poore afflicted ones, (that have hithertoo doted too much upon thee, O <hi>Cromwell</hi>) from another place then from you ſilken Independents, the broken reeds of Egypt in the Houſe and Army) but thou and thy Fathers Houſe ſhall be deſtroyed: but who knoweth whether thou art come out of thy ſickneſſe, and to ſuch a height in the kingdome, for ſuch a time as this<g ref="char:punc">▪</g>
+               </p>
+               <p>And therefore if thou wilt pluck up thy reſolutions, like a man that will perſevere to be a man for God, and goe on bravely in the feare and name of God, and ſay with <hi>Eſther,</hi> If <hi>I periſh I periſh;</hi> but if thou would not, know that here before God I arraigne thee at his dreadfull Barre, and there accuſe thee of deluſions and faire words, deceitfully, for be<g ref="char:EOLhyphen"/>traying us, our wives and children into the <hi>Haman</hi>-like tyrannicall clutches of <hi>Ho<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>is</hi> and <hi>Stapleton</hi> (both now impeached): and the reſt of that bloody and devouring faction, that hath deſigned us to utter ruine and deſtruction, and this land and kingdome to vaſſalage and ſlavery againſt whom we are ſufficiently able to perſevere our ſelves, if it were nor for thee, O <hi>Cromwell,</hi> that art led by the noſe by two unworthy covetous earth<g ref="char:EOLhyphen"/>wormes, <hi>Vaine</hi> and <hi>St. Iohn</hi> (I mean young Sir <hi>Henry Vaine,</hi> and Sollicitor <hi>St. Iohn</hi>) whoſe baſeneſſe I ſufficiently anatomized unto thee in thy bed above a yeare agoe in Colonel <hi>Mountagues</hi> houſe in the <hi>Pears,</hi> as thou canſt not but very well remember, and which I am reſolved to the purpoſe ſhortly to print.<note n="*" place="margin">See the laſt page of the <hi>Out<g ref="char:EOLhyphen"/>cries of the oppreſſed Commons,</hi> and the <hi>Reſolved mans Reſolution.</hi> p. 6. 7, 8 9, 10.</note> O <hi>Cromwell,</hi> I am informed this day by an Officer out of the Ar<g ref="char:EOLhyphen"/>my, and by another knowing man yeſterday, that came a purpoſe to me out of the Army, That you and your Agents are likely to daſh in pee<g ref="char:EOLhyphen"/>ces the hopes of our outward preſervation, <hi>Their petition to the Houſe,</hi> and will not ſuffer them to petition till they have laid down their Armes, becauſe forſooth you have enga<g ref="char:EOLhyphen"/>ged
+<pb n="4" facs="tcp:160397:3"/>
+to the Houſe they ſhall lay down their Armes whenſoever they ſhall command them, although <hi>I</hi> ſay no credit can be given to the Houſes Oathes and engagements, to make good what they have promiſed. And if this be true, as I am too much afraid it is; then <hi>I</hi> ſay, Accurſed be the day that ever you had that influence among them; and accurſed be the day that ever the Houſe of Commons bribed you with a vote of 2500. l. <hi>per annum,</hi> to betray and deſtroy us. Sir, <hi>I</hi> am jealous over you with the hight of godly jealouſie, that you like <hi>Epheſus</hi> have <hi>forſaken your firſt love and zeale</hi>
+                  <note n="*" place="margin">Which is very probable: for <hi>Peter</hi> to ſave himſelfe forſwore and denyed his Maſter, Matth. 26.72.73. yea, and for feare playd alſo the hypocrite and diſſem<g ref="char:EOLhyphen"/>bler, for which <hi>Paul</hi> repro<g ref="char:EOLhyphen"/>ved, and blamed him to his face, Galat. 2.</note>, for which I am moſt heartily ſorry, and ſhould be very glad I were miſtaken, and upon manifeſtation of which from you, <hi>I</hi> ſhould very gladly cry you <hi>peccavi</hi> for my preſent heat: But Sir, if theſe Army newes be true, I muſt bid you for ever <hi>Farewell,</hi> and muſt hereby declare my ſelfe an avowed enemy to your ſelfe-pecuniary intereſt, and all your copartners, and ſhall with more zeale bend all my abilities againſt you all, and un<g ref="char:EOLhyphen"/>mask you to my friends, then my adverſaries the tyranni<g ref="char:EOLhyphen"/>call and arbitrary Lords, doe the worſt you can to my throat, which you uſed jeſtingly to ſay, you would cut ſo ſoon as ever <hi>I</hi> fell out with you.</p>
+               <p>Sir, I have but a life to loſe, and know <hi>that to die to me is gaine, being now crucifi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d to the world and it to me,</hi> and being now ſufficiently able to truſt God with my Wife and Chil<g ref="char:EOLhyphen"/>dren; but by the ſtrength of God I am reſolved <hi>Sampſon like,</hi> to ſell my life at as deare a rate as I can, to my Philiſtine Adverſaries, that ſhall either by force without law, ende<g ref="char:EOLhyphen"/>vour to deſtroy me, or by treachery to undoe me. And if the Army doe disband before they petition, I, and all ſuch as <hi>I</hi> am, muſt truly lay the whole blame upon you, and truly declare the Houſe of Commons bribe <hi>Cromwel</hi> to betray the liberties of <hi>England</hi> into their tyrannicall fingers Sir, is it not the Generals Commiſſion to preſerve the lawes and liberties of <hi>England?</hi> And how can he &amp; thoſe with him, without being eſteemed by all men (that are not bribed, or preferre their own baſe intereſt before the common ſafety) the baſeſt of men, to lay down their Armes upon any conditions in the world, before they ſee the lawes and univerſall well known liberties of <hi>England</hi> firmly ſetled; eſpecially ſee<g ref="char:EOLhyphen"/>ing, as I will undertake publickly, and I hope ſhort<g ref="char:EOLhyphen"/>ly to prove, the Parliament tyrannizeth ten times more over us then ever the King did<note n="*" place="margin">See my printed Epiſtle to Colo<g ref="char:EOLhyphen"/>nel <hi>Martin,</hi> of the 31. of <hi>May,</hi> 1647. page 6, 7, 8, 36, 37, 38, &amp; 48, 49, to 56. And ſee the firſt part of the juſtification of the Kings Govern<g ref="char:EOLhyphen"/>ment againſt the Parliament, page 3, 4, 5, to the end. And Mr. <hi>Richard Overtons</hi> Appeale, dated <hi>Iuly</hi> 1647.</note>: and I will maintain it, that by the law of this Kingdome, it is ten times eaſier to prove it lawfull for us to take up Armes againſt them in the wayes they now go, then it was for them to take up Arms when they did, againſt the King. And <hi>I</hi> profeſſe I would doe it, if I were rationably able to doe it to mor<g ref="char:EOLhyphen"/>row. For, if, as they have often ſaid, <hi>That tyranny be reſiſtable,</hi> then it is reſiſtable in a Parliament as well as a King. Sir, I am not mad, nor out of my wits, but full of apprehenſions of ſlaviſh conſequences, reaſon and zeale, and ſhould bee glad it could ſpeedily and iuſtly be cooled by you, before it flame too high, which you will further underſtand I have grounded cauſe to make it, if you ſeriouſly read and ponder this incloſed Letter ſent to Mr. <hi>Iohn Goodwin,</hi> which with this, <hi>I</hi> have ſent by the graveſt, wiſeſt, and fitteſt meſſenger I could think of, and though a Feminine, yet of a gallant and true maſculine Spirit.</p>
+               <p>
+                  <pb n="5" facs="tcp:160397:3"/>And ſo I commit you to the wiſeſt diſpoſing of our wiſe God, and ſhall reſt till I heare from you.</p>
+               <closer>
+                  <dateline>From my ſoule-contented captivity in the Tower of <hi>London,</hi> for the Lawes and liberties of <hi>England,</hi> a<g ref="char:EOLhyphen"/>gainſt the tyranny of the houſe of Lords, and their aſſociates, Lords would be, <date>this 25 <hi>March,</hi> 16<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>7.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Yours in much iealouſie of you,</hi> Iohn Lilburne.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>To his much honoured and much reſpected friend, <hi>Mr. John Goodwin,</hi> at his Houſe in Swan-Alley, in Cole<g ref="char:EOLhyphen"/>manſtreet, theſe.</head>
+               <opener>
+                  <salute>Honoured and worthy Sir,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">I</seg> Am neceſſitated to write a few lines unto you, about a buſineſſe that doth very much concerne mee, but in the firſt place, I <hi>deſire to make my engaged acknow<g ref="char:EOLhyphen"/>ledgement unto you, and your congregation for your large kindeſſes manifeſted unto me in this my preſent impriſonment in ſupplying my neceſſities:</hi> in which par<g ref="char:EOLhyphen"/>ticular I muſt ingeniouſly confeſſe I am more obliged to you ſingly, then to all the Con<g ref="char:EOLhyphen"/>gregations in and about <hi>London,</hi> and yet notwithſtanding, have in ſome other things juſt cauſe to think my ſelfe more injured by ſome of your congregation then by all the avow<g ref="char:EOLhyphen"/>ed and profeſſed adverſaries I have in <hi>England;</hi> for againſt them I have a defence, <hi>but a<g ref="char:EOLhyphen"/>gainſt a ſecret adverſary (being a pretended friend)</hi> I <hi>have none,</hi> but am thereby ſubject to an unapprehended deſtruction. That which I have to lay to the charge of ſome of your members, is, <hi>That they have improved all their power, intereſt, and ability, to hinder all effectuall meanes (whatſoever) that tended to procure my deliverance from a tyrannicall captivity,</hi> and not only mine, but all the reſt of my afflicted fellow-Commoners that are in the ſame affliction with me, (as Mr <hi>Richard Overton,</hi> his wife and brother, Mr. <hi>Iohn Muſgrave,</hi> Mr. <hi>Larners</hi> ſervant, &amp;c.) for beſides what they have done in <hi>London</hi> to cruſh all Petitions that tended to my juſt deliverance, they have improved their intereſt to deſtroy the Petition of <hi>Buckingham</hi> ſhire, and <hi>Hartford</hi> Shire, which was principally in<g ref="char:EOLhyphen"/>tended for the good of the prerogative Priſoners, my ſelfe, Mr. <hi>Overton, &amp;c.</hi> for upon Munday laſt Lieut. Collonell <hi>Sadler</hi> came to the <hi>Randevous at Saint Albones, and there<g ref="char:EOLhyphen"/>in the name of diverſe knowing men of</hi> Mr. <hi>John Goodwines Congregation,</hi> improved all his intereſt utterly to deſtroy the Petitioner, ſo that what he did then, and Mr. <hi>Fe<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ke an Independant Miniſter, who lives at or about Hartford,</hi> who being lately at <hi>London,</hi> brought downe ſuch diſcouraging newes, that ſome of eminent quality of the Petitioners told me in theſe words, <hi>That if it had not been for the baſe, unworthy, undermining dealing of ſome of</hi> Mr. <hi>John Goodwins Congregation, they had had</hi> a thouſand ſubſcriptions for an hundred they have now, and a thouſand to have come in perſon with the Petitioner for every hundred they had.</p>
+               <p>Sir, I cannot but ſtand amazed to thinke with my ſelfe, what ſhould be the ground and reaſon of theſe mens prepoſterous actings, point blanke deſtructive to the welfare of every
+<pb n="6" facs="tcp:160397:4"/>
+honeſt man in the Kingdom, and particularly the deſtruction of<note n="*" place="margin">Who hath never beene out of the clutches of tyrants this ten years, who have ſeverall times made me ſpend my ſelfe to my very ſhirt.</note> me and my poor diſtreſſed Fami<g ref="char:EOLhyphen"/>ly and truly in my own thoughts, I think I could eaſily fix upon thoſe worldly wiſe prudentiall men in the Parliament,<note n="*" place="margin">The chief of which I conceived to be you &amp; Sir <hi>Hen. Van<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> and Soliciter <hi>St. John,</hi> whoſe aims I conceived are to be Lord Treaſurer &amp; Lord Keeper, or if they miſſe of the titles, yet to en<g ref="char:EOLhyphen"/>joy the power and profit thereof, or elſe to be as neare it as may be.</note> that ſet them at work on purpoſe to keepe the people from ſeeking for their owne liberties and freedomes, that ſo they may not be diſturbed in the enjoyment of their great and rich places, which I am afraid they priſe above the welfare of all the godly men in <hi>England,</hi> and the Lawes, liberties and freedomes thereof for all their great and g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lded profeſſions, and truly as much cauſe have I adminiſtred to me, particularly and publiquely to fall foule upon them, and their proud, imperious, unjuſt; and ſelfe intereſts, as they under-hand have fallen upon me, my liberty and welfare, but by reaſon of thoſe many engagements, by which I ſtand obliged to your ſelfe, for your ſo ſtout &amp; deep engagement for the publick welfare of all thoſe that thirſt after either mor<g ref="char:EOLhyphen"/>rall, or religious righteouſneſſe: I could do no leſſe but write theſe lines unto you, before <hi>I</hi> put my neceſſitated reſolution unto reall action, and earneſtly to entreat you to ſpare ſo much time from your weighty emploiments, as to do mee the favour to let me ſpeake a few words with you, and if you pleaſe to bring Mr. <hi>Price</hi> along with you</p>
+               <p>So with my trueſt reſpect preſented to you, I commit you to the protection of the moſt High, and reſt,</p>
+               <closer>
+                  <signed>Your true and reall friend to ſerve you, <hi>JO. LILBVRNE</hi>
+                  </signed>
+                  <dateline>From the Tower <date>this 13. of Feb. 1646.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>A ſecond letter to Leiu. Generall Cromwel, to preſſe home the former.</head>
+               <opener>
+                  <salute>Honored Sir;</salute>
+               </opener>
+               <p>I writ a large letter to you of late, and by the bearer of it I received a verball anſwer from you, &amp; by an other freind of <hi>Briſtow</hi> at a diſtance I underſtood a litle from you, but neither of them ſatisfactory to me, nor any thing elſe that I have lately heard from you, or any of your over wiſe friends, that are not able to truſt God with three halfe pen<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e; ſo that my ſpirit is as high as it was when I laſt writ to you, and altogether unſatisfied. But in regard my ſoul earnes towards you I cannot but once again by this true friend write two lines unto you, to tell you that I ca<g ref="char:cmbAbbrStroke">̄</g>not ſit ſtill though I dy for it, and ſee you that are reputed honeſt conſcientious men be the betrayers and deſtroyers of your poore native Countrey, and the lawes and liberties thereof<note n="*" place="margin">
+                     <p>For while you ſit in the Houſe in ſilence, and publiſh nothing to the publike view, of your diſlike of the baſe things that are continually Acted in the Houſe, you are in the ſight of men approvers of them all, yea, and treacherous be<g ref="char:EOLhyphen"/>trayers of your Friends and Country. Who think all is well, becauſe that you are reputed honeſt men ſit there, and they ſee nothing of your diſlike of any thing done there, and 
+<pb n="7" facs="tcp:160397:4"/>
+therefore are ſubject to be held aſleepe with ſecurity till deſtruction be even at their dores, and ready to ſeale vpon them, whereas if ye plaid the faithfull watchmen to your native Country as you ought to doe, to warne them betimes of the danger they are in, by the ty<g ref="char:EOLhyphen"/>rannicall treacherous vilians amongſt you, they would eaſily be awakned and provide for their own ſafety, by the ſpeedy deſtruction of thoſe that would deſtroy them which is but juſt and reaſonable. 1 part book Declarations page 150.</p>
+                  </note>
+               </p>
+               <p>I can now ſay no more at preſent, but that <hi>I</hi> was yours, and ſtill am <hi>Englands</hi> Cor<g ref="char:EOLhyphen"/>diall Freind,</p>
+               <closer>
+                  <signed>John Lilburne.</signed>
+                  <dateline>
+                     <date>Aprill 10. 1647.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>For the Honorable Lieutenant Generall CROMWELL, this preſent at St. <hi>Albons.</hi>
+               </head>
+               <opener>
+                  <salute>Honoured Sir,</salute>
+               </opener>
+               <p>NOthing indears my heart ſo much to any man, or men in the world, as honeſtie, integritie, and juſtice: the contrarie of which makes me abhor thoſe in whom I find it, although never ſo great and potent Sir, <hi>I</hi> ſhall without much com<g ref="char:EOLhyphen"/>plement, return you many and hearty thankes for your active paines, and upon thoſe repreſentations <hi>I</hi> have of your preſent courage, <hi>I</hi> doe aſſure you <hi>I</hi> would willingly be a Pioneer with you, and hazard, if I had them, a million of lives for you: But never was <hi>I</hi> ſo afraid of all mine enemies, as of divers of thoſe great ones <hi>I</hi> have looked upon as your chieife Councellors. Sir, your delay hath given extraordinarie heart to your ad<g ref="char:EOLhyphen"/>verſaries (who under hand make large preparations againſt you) and unexpreſsible ſad<g ref="char:EOLhyphen"/>ding of ſpirit to all your cordiall friends, inſomuch that I for my part, have even deſpai<g ref="char:EOLhyphen"/>red of any good from you: the which hath not in the leaſt quenched my reſolutions, but more fully fixed me with magnanimity flowing from the God of valour and courage, to die upon my own and my old principles: <hi>I</hi> am very confident that if you delay a few dayes longer, you unavoidably involve thi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> k<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ngdome in a large effuſi<g ref="char:EOLhyphen"/>on of blood<note n="†" place="margin">For your adverſaries in Parlia<g ref="char:EOLhyphen"/>ment being ſo falſe and faithleſſe, as by their conſtant actions they have declared themſelves to bee, they will give you good words, &amp; their faith and promiſes, to lull you aſleep, that ſo underhand in the time of your Treaty, they may themſelves to be able to cut your throats; which is the daily worke they ſecretly go about: And then have at you with a vengeance.</note>. What I have to begge and intreat of you as for my life, is Firſt, immediatly to march with a Declaration of peace and love to the body of the Citie; the doing of which will enable your friends here, <hi>I</hi> confidently hope, to doe your worke for you in ſequeſtring the <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. Members. As for juſtice at preſent you nor any <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> cannot expect it. For the Iudges at <hi>Weſtminſte</hi> H<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>l by Law are no Iudges See the 27 <hi>H.</hi> 8. 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Ordinance of Parliament by law can take away <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> life, I am ſure of it. See the 2 part. inſtit. fol. 41 48. &amp; <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> part. fol. 22. &amp; 4. part. fol. 23 25. 48 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>0 <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Declaration. But if you ſhould ſay, it is but iuſt that an Ordinance ſhould take away the lives of thoſe that have made them take
+<pb n="8" facs="tcp:160397:5"/>
+away the lives of others, yet I ſay the moſt of the members are ſo guilty, that they will ne<g ref="char:EOLhyphen"/>ver condemne thee.</p>
+               <p>The ſecond thing I begge of you, is, That with all candor you endevour to underſtand the King, and let him underſtand you, and deale with him as becomes honeſt men that play above boord, and doe their actions as in the ſight of God, for the good of all. I have in th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s particular fully by word of mouth, communicated my mind to <hi>Tim Tre<g ref="char:EOLhyphen"/>vers,</hi> to be communicated to you: And this if I were with you, upon my life I durſt diſ<g ref="char:EOLhyphen"/>pare againſt you all, that as things ſtand, both in point of policy, honeſty, and conſci<g ref="char:EOLhyphen"/>ence, you muſt apply to the King, without which the peace of the Kingdome can never be ſetled: and by Parliament having ſo tyrannized, that they are grown as hatefull to iuſt man, as the Divell. And doe confidently believe hee will grant any thing that is ra<g ref="char:EOLhyphen"/>tionall, that you or the Kingdome can deſire at his hands, for their future good, ſecurity and preſervation.</p>
+               <p>Now one thing I ſhall prop<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>und to your conſideration, That you be not deceived by your Scout-maſter generall, <hi>Watſon</hi> who I am apt confidently to beleeve, will never ho<g ref="char:EOLhyphen"/>neſtly and uprightly adventure the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aking of his finger either for God, his Countrey, or the Army, further then he may be thereby of the ſtronger ſide, and be a gainer. As for Dr. <hi>Stanes,</hi> whatever you think of him, <hi>I</hi> averre he is a iuggling knave, the which I told you above two yeares agoe at <hi>Ilcheſter,</hi> and I will iuſtifie it, and am confident, will deceive you in the day of triall. And as for <hi>Nath Rich,</hi> you your ſelfe know him to be a iuggling paltry baſe fellow: Remember what you told him to his face in his own Chambers in <hi>Fleetſtreet</hi> before me and my wife, and two more, at the time <hi>Mancheſters</hi> treaſon was upon examination. And beſides, his own Captain Lieutenant in my chamber, ſome weekes ſince, ſhewed me ſuch letters of his to him, under his own hand, that gives mee cauſe to iudge him fully to be a iuggling, diſſembling, treacherous, He<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-hearted baſe fel<g ref="char:EOLhyphen"/>low, which I deſire you and all the honeſt men in the Army to beware of, as of a plague and peſt. And if hee ſhall finde himſelfe aggrieved at it, <hi>I</hi> ſay, tell him I will to his teeth, with my ſword in my hand in any ground in <hi>England,</hi> iuſtifie what I ſay<note n="*" place="margin">And this I ſay to you, that it is but iuſt and fit that thoſe that pretend to bee reformers, reforme firſt at home, leſt they render them ridiculous to all that ſe<g ref="char:EOLhyphen"/>tiouſly look upon their actions.</note>,</p>
+               <p>Sir, in the way of iuſtice, and ſingle-hearted righteouſneſſe, in the midſt of all miſe<g ref="char:EOLhyphen"/>ries, I am</p>
+               <closer>
+                  <dateline>
+                     <date>22. <hi>Iune,</hi> 1647,</date>
+                  </dateline>
+                  <signed>
+                     <hi>Yours untill death,</hi> Iohn Lilburne.</signed>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>The Bearer by word of mouth hath from me more to ſay to you.</hi>
+                  </p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <head>For Lieutenant Generall <hi>Cromwell</hi> this with ſpeed, preſent at Wickham.</head>
+               <opener>
+                  <salute>Honored Sir,</salute>
+               </opener>
+               <p>MY thoughts about the procedings of ſome of your great ones in the Armie, have been exceedingly perplexed, which hath ſet my braines upon an unwearied ſtudy, which in an Epiſtle would be too large to expreſſe unto you, onely I cannot (for
+<pb n="9" facs="tcp:160397:5"/>
+former engagements ſake, and the common good) but acquaint you with the <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of them before I print them.</p>
+               <p>You cannot but know that you ſeverall times, in a forcible manner kept mee in <hi>Man<g ref="char:EOLhyphen"/>cheſters</hi> Army, when I would (for that baſeneſſe and treachery acted there) have deſer<g ref="char:EOLhyphen"/>ted it, and have betaken my ſelfe to travels; Remember our diſcourſe at <hi>Banbury,</hi> &amp;c.</p>
+               <p>And you know when he and you came to conteſt, I ſtood cloſe to you, and to truth and Juſtice then on your ſide, without feare or double ends: <hi>Although both Watſon, your Scout<g ref="char:EOLhyphen"/>maſter Generall, and Staines your Muſter-maſter Generall, with Coll. Nat. Rich, your dar<g ref="char:EOLhyphen"/>ling, plaid the paltry Knaves, and jugled with you,</hi> of which in part <hi>you complained before me and my wife, to Rich his face, in your owne chamber at Dillinghams houſe, and called him be<g ref="char:EOLhyphen"/>fore us, baſe Raſcall, and cowardly and perfidious fellow, with much more I very well re<g ref="char:EOLhyphen"/>member.</hi>
+               </p>
+               <p>You cannot but know that all my preſent ſorrowes are come upon me by <hi>Mancheſters</hi> meanes and his creatures, for my zeale to truth and juſtice, againſt him and all his trea<g ref="char:EOLhyphen"/>cherous confederates, who had (as I conceive) eare now got the gallowes, if you had fol<g ref="char:EOLhyphen"/>lowed him with as much vigour and ſtrength as you ſhould, and I was made beleeve you would. But you pluckt your head out of the<note n="*" place="margin">Accurſed bee the vote of the Houſe of Commons, which voted you 2500 l <hi>per annum,</hi> which vote and no<g ref="char:EOLhyphen"/>thing elſe hath kept <hi>Man<g ref="char:EOLhyphen"/>cheſters</hi> head upon his ſhoul<g ref="char:EOLhyphen"/>ders.</note> coller, and I was catched in the bryers, and have been expoſed to a thouſand deaths by my impriſonment, &amp;c. moſt illegal<g ref="char:EOLhyphen"/>ly, barbarouſly and tyrannically, and the Houſe of Com<g ref="char:EOLhyphen"/>mons would do me no juſtice; though I turned (I think) as many ſtones to procure it, as any man whatſoever in <hi>England</hi> could. <hi>But was betrayed and unworthily diſſerted, both by your ſelfe,</hi> Henry Martin,<note n="†" place="margin">Reade my late Epiſtle to him, <hi>page</hi> 1, 2, 3. 4, 5, 6, &amp;c. now in Print. Dated 31. of <hi>May.</hi> 1647</note> 
+                  <hi>and all my friends there,</hi> whoſe actions to me are nothing elſe but declara<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ions of your ſelfe ſeekings, without purely eyeing either Truſt or Juſtice: for which God undoubtedly will laſh and ſcurge you. And when <hi>I</hi> ſaw that they wou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d not heare, regard, or receive, but burnt, or ſleighted all thoſe juſt Petitions; I ſet underhand on foot, for Juſtice and my liberty, I applyed my ſelfe vagarouſly unto the honeſt blades, the private Souldiers, I meane, of the Army, though I have nothing to ſpeake of your gallant Ge<g ref="char:EOLhyphen"/>nerall (to me in a manner a ſtranger) but prayſes.</p>
+               <p>And when by much induſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y with much of poſition from your ſelfe and others of your fellow Grandees in the Army, I had been inſtrumentall with the expence of a great deale of money<g ref="char:punc">▪</g> and with all the intereſt and induſtry I had in the world; acted both night and day to ſettle the Souldiers in a compleat and juſt poſture, by their faithfull agitators cho<g ref="char:EOLhyphen"/>ſen out by common conſent from amongſt themſelves, as reſolute, ſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and juſt inſtruments to effect my Liberty, to give a checke to tyranny, and ſettle the peace and juſtice of the Kingdome, not looking for any good at all from your ſelfe, and the reſt of your fellow great ones, that truly in my apprehenſion are tranſendently degenerated, &amp; have bought and ſold, (and intend viſibly more fully to do it) the Lawes, Liberties and Juſtice of the Kingdom for your owne ends and greatneſſes, which opinion is every day confirmed and ſtrengthned in me, in that you have not only done it alreadie, but goe on ſtill and intend more fully to do it, in that in a manner you have rob'd, by your unjuſt ſubtiltie, and ſhif<g ref="char:EOLhyphen"/>ting trickes <hi>the honeſt and gallant agitators, of all their power and authority,</hi> and ſolely placed <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> in a thing called a Counſell of Warre, or rather <hi>a Cabenet Junio of ſeven or eight proud ſelfe ended fellowes,</hi> that ſo you may without controule make up your owne ends;
+<pb n="10-11" facs="tcp:160397:6"/>
+for I know your practiſes of old, which <hi>I</hi> am credibly informed is lately renued, and the chiefeſt of them before mentioned, whom I &amp;c. have experience ſufficiently of, are as baſe as baſe can be; <hi>And will ſell Chriſt, their Country, friends, relations, and a good con<g ref="char:EOLhyphen"/>ſcience for a little money or worldly honour.</hi> And yet ſome of them muſt be the chiefe and only men to place and diſplace all Officers in the Armie.</p>
+               <p>And the aforeſaid two general Officers were as <hi>I</hi> am confidently informed from a good hand moved for by your ſelfe at a Councell of Warre, to be the mannagers of the charge againſt the eleven Members, although your ſelfe, I dare aver it, believes, <hi>That put them both together, they have not ſo much courage as to encounter with a Weſell or a Poulecat, much leſſe with ſuch ſons of Anak, as the eleven Members are,</hi> and I am ſure both of them put together hath not ſo much honeſtie, as will fill a Tailors thimble, much leſſe ſo much as will make them deny their lives, liberties and intereſts; which of neceſſitie they muſt have that reſolutely and faithfully undertake that imployment, yet, as I am tould, they had been the men, <hi>if your wiſe ſon</hi> Ireton <hi>had not been apprehenſive that the Councell of warre had loſt all their braines at their departure.</hi>
+               </p>
+               <p>Sir, in ſhort, what I heare not <hi>once, twiſe, thriſe, nor a dozen times from you hath ſo per<g ref="char:EOLhyphen"/>plexed my ſpirit, and fil'd me with amazement,</hi> that thereby I muſt as a faithfull plaine dealer tel you, that I am neceſſitated wholly to withdraw my preſent good thoughts from you and others with you, and <hi>muſt and will print my conceptions to the view of the world, that ſo you may delude,</hi> and deſtroy <hi>honeſt ſimple hearted, plain dealing men no longer,</hi> coſt it what it will, I valew it not, being neceſſitively compelled either to remove every ſtone that lyes in my way, that hinders me, from obtaining my juſt ends, Juſtice and my juſt liberty; <hi>or elſe to power out my bowels upon them with lifting them,</hi> and I ſufficiently heare of the Jeeres, plottings and contrivings, of your favourites againſt me and all ſuch as I am.</p>
+               <p>Therefore doe you and they looke to your ſelves as well as you can, for the uttermoſt of my ſtrength and intereſt ſhall ſpeedily be amongſt you publiquely, <hi>unleſſe you ſpeedily and effectually, without complement take ſome ſpeedy courſe, that I face to face may ſpeake my mind to your ſelfe, of which I deſire a poſitive and ſatisfactory anſwer within foure dayes at the fartheſt:</hi> I deſire no favour from Lords or Commons &amp;c. but if I have tranſ<g ref="char:EOLhyphen"/>greſſed the Law: let me fully be puniſhed by the Law,<note n="*" place="margin">And by the Law of this Kingdom (which by all your oathes you your ſelfe have ſworn to main<g ref="char:EOLhyphen"/>taine) there ought to bee Gaole deliveries three times a yeare, and more oftner if need required, <hi>4.</hi> Ed. <hi>3. 2.</hi> ſee the oppreſ<g ref="char:EOLhyphen"/>ſed mans expreſſions de<g ref="char:EOLhyphen"/>clared. pag. <hi>3.</hi> &amp; <hi>4.</hi> part. Iuſtit. cap. <hi>30.</hi> pag. <hi>168. 169.</hi> And all this is for that end, that the priſoner may have (according to the <hi>29.</hi> chap. of Magna Charta, &amp; the Kings Coronation oath) ſpeedy Juſtice, &amp; not be deſtroy'd by a long lingring impriſonment, which the Law abhorres, and therefore the late impeached members in their own caſe, late<g ref="char:EOLhyphen"/>ly in their petition to the Houſe, tells them, <hi>That delayes of Iuſtice is equal<g ref="char:EOLhyphen"/>ly forbidden with the deniall of Iuſtice,</hi> and yet I have above a whole yeare been impriſoned by the Lords, and can come to no triall, though I have with ear<g ref="char:EOLhyphen"/>neſtneſſe ſought it, neither have I any accuſation or crime layd unto my charge, or ſo much as any witneſſe or informer to appeare againſt me, to the tranſcendent violation of all the lawes of the land, and contrary to all Rules of proceedings in the way of Juſtice, as the foreſaid petitioners averre, who although they bee im<g ref="char:EOLhyphen"/>peached of treaſon in the higheſt nature, and the particulars of their impeachment declared, and proſecuters with witneſſes upon oath ready avowedly to make it good, yet are they ſuffered to walk at liberty by the Parliament, contrary to the declared and known law of the land, and the univerſall practice of the lawes of the Kingdome in all Ages; yea and their own in the caſe of the Earle of <hi>Straf<g ref="char:EOLhyphen"/>ford,</hi> Biſhop of <hi>Canterbury,</hi> Judge <hi>Battlet,</hi> with many others, who they requi<g ref="char:EOLhyphen"/>red and cauſed immediatly to be ſecured and impriſoned upon a generall impeach<g ref="char:EOLhyphen"/>ment, without declaring any particulars in the leaſt. O brave iudging Parlia<g ref="char:EOLhyphen"/>ment, who have forgot to be iuſt, and viſibly mind and practice nothing but play<g ref="char:EOLhyphen"/>ing at <hi>Hocus Pocus,</hi> and the protecting of treaſon, cheating, knavery and roguery in each other, for which they deſerve the moſt tranſcendent puniſhment that ever amongſt men was inflicted vpon Villaines, Tyrants, and Traytors, to their truſt.</note> but not deſtroyed in priſon without and againſt Law, which if I can help it, I will not be without a witneſſe; or if I have done no evill, which my adverſaries declare I have not, in that as yet they have layd nothing to my charge: then I require im<g ref="char:EOLhyphen"/>mediatly to be delivered with juſt reparations, and this I know lies in your power to effect in three dayes if you pleaſe<g ref="char:punc">▪</g> And ſo deſiring the God of Councell to direct you, I reſt,</p>
+               <closer>
+                  <dateline>From my cauſeleſſe captivity in the Tower of <hi>London,</hi> 
+                     <date>this firſt of July, 1647.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Your true friend in the wayes of Juſtice and Truth till death,</hi> Iohn Lilburne.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="12" facs="tcp:160397:7"/>
+               <head>I ſhall conclude with the Copie of a letter I ſent Lieutenant Generall <hi>Cromwell</hi> into the Weſt, <hi>Decemb.</hi> 9. 1645.</head>
+               <opener>
+                  <salute>Deare and Honourable Sir:</salute>
+               </opener>
+               <p>THe endearedneſſe of my affections towards You, for thoſe excellencies that I have ſeene in you, and for thoſe reall reſpects that I have enjoyed from you (but eſpecial<g ref="char:EOLhyphen"/>ly in that God hath honoured you and counted you worthy to be a Patron to his people) ties me to have high and honourable thoughts of you, and by how much the more my eſteeme is of you, by ſo much the more do <hi>I</hi> judge it my duty to ſpeak my mind freely and plainly to you (although in the eye of the world, yea by thouſands of degrees below you) and I hope you will make no other conſtructions of my words, then that they are the cleare demonſtrations of the cordiall affections of a reall, plaine and ſingle hearted friend of yours, who you very well know was never skilfull in the wicked art of flattery, col<g ref="char:EOLhyphen"/>loging or d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſimulation.</p>
+               <p>From my Brother have <hi>I</hi> by two letters received an invitation (as comming from your ſelfe) to come down into the Army, but I beſeech you give me leave to informe you that the foyles, affronts, and undermining uſages that I met with (not from you but others of more quality then honeſty, when I was laſt in the Army, hath ſtucke in my ſtomack ever ſince, &amp; could never yet be diſgeſted by me &amp; though <hi>I</hi> do proteſt, <hi>I</hi> highly honour your ſelfe, and could willingly (if <hi>I</hi> know my owne heart) lay downe my life for you, your ho<g ref="char:EOLhyphen"/>nour and reputation, as ſoone as for my father that begot me, <hi>or the deareſt friend I have upon the face of the earth:</hi> Yet ſo deepe impreſſion hath the dealings with my ſelfe, and others of my deare friends, that I have taken notice of both before that time, and ſince, <hi>(from one and the ſame parties)</hi> taken upon my ſpirit that <hi>I</hi> have many times, and ſtill do in a manner ſcorne to take imployment under thoſe perſons, <hi>where the ſon or ſons of Ma<g ref="char:EOLhyphen"/>chevell hath ſuch ſway, power, and authority, by advice, policies and counſels, as the party or parties that I know abuſed me</hi> hath in your Army, and give me leave without paſſion, to tell you, that I ſay you your ſelf harbour in your breſt a Snake or Snakes, although you will not know it, you, and <hi>I</hi> ſay, there are thoſe that have no ſmall influence into you, that if the wheele of honour and profit ſhall turne round every day in the weeke, they are able to carry themſelves ſo that they ſhall be no loſers by it, yea, and are able <hi>(and have prin<g ref="char:EOLhyphen"/>cipals to do it)</hi> to give the t<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eſt words in the world to you, or any other honeſt man they deale with, when they intend to cut your throat, and ſupplant and undermine you, and this <hi>I</hi> am able to make good: Sir you may remember what you uſed to ſay, <hi>That it was the greateſt honour and glory that my Lord of Mancheſter ever had in the world, that he was a Commander of ſo many of Gods people:</hi> and give mee leave to ſay the ſame to you, and alſo give mee leave to tell you, that, that which loſt my Lords eſtimation amongſt Gods people was the harkning to the evill advice of thoſe that had as ſpecious pretenſes as thoſe <hi>I</hi> meane above you, and I wiſh that your harkning to theirs may not eclips <hi>(though I hope it will never loſe)</hi> that reſpect that flowes from Gods people towards you: Sir <hi>I</hi> run not at random, but ſpeake upon grounds from ſomething lately come unto my knowledge and obſervation, and <hi>I</hi> have now diſcharged my duty and my conſcience, <hi>take it as you pleaſe,</hi> and when you and <hi>I</hi> meet <hi>I</hi> ſhall clearly lay downe my grounds unto you, if you pleaſe to give me leave, which <hi>I</hi> ſhall take for a greater honour, then if <hi>I</hi> had been one in the new Model of Dukes &amp; Barons, lately ſo made by vote; for my part I will not take upon me now to give you advice, but ſhal leave you to the wiſe Counſeller of all <hi>his,</hi>
+                  <pb n="13" facs="tcp:160397:7"/>
+who tels me honeſty is the beſt policy, and uprightnes begets bouldnes, neither have <hi>I</hi> any thing now to deſire of you for my ſelfe, or any of my friends, being reſolved by the good<g ref="char:EOLhyphen"/>neſſe of God patiently to be content with my portion, though it be but bread and water, with the enjoiment of the cordial affections of the ſimple and contemned people of God, and rather here hazard my ſelfe in ſeeking for juſtice and right which is my due, then to go abroad to venter my life againe in fighting <hi>I</hi> know not wherefore, as <hi>I</hi> have done hi<g ref="char:EOLhyphen"/>therto, <hi>unleſſe it be to ſet up tyranny, violence, injuſtice, and all manner and kind of baſe<g ref="char:EOLhyphen"/>neſſe.</hi> So craving pardon for my boldneſſe (and it may be too plain lines) <hi>I</hi> commit you to the protection of the moſt High, with as much ſincerity and uprightneſſe as I doe my owne ſoule.</p>
+               <closer>
+                  <dateline>And ſhall ever remaine, London <date>this 9. Decemb. 1645.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Your faithfull, plain and truth-telling friend and ſervant,</hi> John Lilburne.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="postscript">
+            <head>The Poſtſcript.</head>
+            <p>It may be divers may demand to know the reaſon wherefore I write, and cauſed to be printed, the fore-going Epiſtles; unto whom at preſent I returne this anſwer, That be<g ref="char:EOLhyphen"/>cauſe the Army under Sir <hi>Thomas Fairfax,</hi> is not now an Army acting by a Commiſſion, either from the King, or the two Houſes: for although they were raiſed by an Ordinance of the Lords and Commons aſſembled at <hi>Weſtminſter,</hi> for the defence of the King and Parliament, the true Proteſtant Religion (not the Scotch, Iewiſh, Antichriſtian inſlaving Presbytery) and the Lawes and Liberties of the Kingdome (not the Arbitrary wills of the Houſes) as appeares by the Ordinance of the 15. Feb. 1644. 2. part. book Declar. fol. 599. which poſitively commands <hi>Sir Thomas Fairfax</hi> from time to time, to ſubmit to, and obey all ſuch orders and directions as he ſhall receive from both Houſes of Parlia<g ref="char:EOLhyphen"/>ment, or from the Committee of both Kingdomes. Yet now he and his Army apprehen<g ref="char:EOLhyphen"/>ding and beleeving, that the wicked and ſwaying Faction in both Houſes, would deſtroy them, and inſlave the whole Kingdome, doe not onely diſpute the two Houſes orders and commands, but alſo poſitively diſobey them, as unjuſt, tyrannicall, and unrighteous: And being now thereby diſſolved into the originall law of Nature, hold their ſwords in their hands for their own preſervation and ſafety, which both Nature, and the two Houſes practices and<note n="*" place="margin">See the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. part. bo, declar p. 44. 93, 94, 150, 202, 205, 307, 382, 277, 269, 279, 446, 496, 637, 690, 700, 7<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>7, 722, 723, 726, 728</note> Declarations teaches them to doe, and juſtifies them in, and now act according to the prin<g ref="char:EOLhyphen"/>ciples of Saifety, flowing from Nature, Reaſon, and Juſtice, agreed on by common conſent and mutuall agreement amongſt themſelves; in which every indi<g ref="char:EOLhyphen"/>viduall private Souldier, whether, Horſe or Foot, ought freely to have their vote, to chuſe the tranſactors of their affaires, or elſe in the fight of God, and all rationall men, are diſcharged from obeying, ſtooping, or ſubmitting to what is done by them</p>
+            <p>And that they doe now act upon the foreſaid Principles, is cleare by their printed in<g ref="char:EOLhyphen"/>gagement of the 5. of July 1647. called, <hi>A ſolemne engagement of the Army under the com<g ref="char:EOLhyphen"/>mand of his Excellency Sir</hi> Thomas Fairfax, <hi>read, aſſented unto, and ſubſcribed by all Offi<g ref="char:EOLhyphen"/>cers and Souldiers of the ſeverall Regiments at the generall Randezvouz neer Newmarket,</hi>
+               <pb n="14" facs="tcp:160397:8"/>
+In which agreement, or ſolemn engagement, they ſay, <q>That the Souldiers of this Army (finding themſelves ſo ſtopt <hi>(as before they there declare)</hi> in their due &amp; regular way of making known their juſt grievances, and deſires to, and by their Officers) were inforced to an unuſual <hi>(but in that caſe neceſſary)</hi> way of correſpondencie and agreement amongſt themſelves, to chuſe out of the ſeverall Troops &amp; Companies, ſeverall men, and thoſe out of their whole number, to chuſe two or more for each Regiment, to act in the name and behalfe of the whole Souldery of the reſpective Regiments, Troops, and Com<g ref="char:EOLhyphen"/>panies.</q>
+            </p>
+            <p>And a little fu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther they expreſſe themſelves thus: <q>We the Officers and Souldiers of ſeveral Regiments hereafter named, are now met at a general Rendezvouz, have ſub<g ref="char:EOLhyphen"/>ſubſcribed vnto the ſaid ſolemne engagement, and doe hereby declare, agree, and pro<g ref="char:EOLhyphen"/>miſe, to and with each other, and to and with the Parliament, and Kingdome, as fol<g ref="char:EOLhyphen"/>loweth.</q>
+            </p>
+            <p>
+               <q>Firſt, that we ſhall cheerfully and readily disband, &amp;c. having firſt ſuch ſatisfaction and ſecurity in theſe things, as ſhall be agreed unto <hi>BY A COVNCELL TO CONSIST OF THOSE GENERALL OFFIGERS OF THE ARMY</hi> (who have concurred with the Army in the premiſes) <hi>WITH TWO COMMISSION OFFICERS, AND TWO SOVLDIERS TO BE CHOSEN FOR EACH REGIMENT,</hi> who have concurred, and ſhall concurre with us in the premiſes, and in this agreement. And by the Major part of ſuch of them who ſhall meet in Councell for that purpoſe, when they ſhall bee thereunto called by the Generall. Secondly, that without ſuch ſatisfaction and ſecurity as aforeſaid, we ſhall not willingly disband nor divide, nor ſuffer our ſelves to be diſ<g ref="char:EOLhyphen"/>banded or divided.</q>
+            </p>
+            <p>So that by theſe words in their agreement, you ſee the foreſaid poſition proved, that they act by mutuall conſent, or agreement. Now to have this agreement, or ſo<g ref="char:EOLhyphen"/>lemne ingagement invaded or broken, either by the ſubtilty, fraud, or power of the Offi<g ref="char:EOLhyphen"/>cers, and a power aſſumed by themſelves, to act all their chiefe buſineſſe contrary to this A<g ref="char:EOLhyphen"/>greement, is an action that merits a kicking (if not worſe) out of the Army, to all thoſe Officers (be they what they will be) that were chiefe actors and contrivers of it.</p>
+            <p>For the moſt Divelliſh, ſubtile, undermining and deſtroying way that can bee taken by the greateſt haters of the Army, <hi>Stapleton, Hollis,</hi> or the <hi>Aſſembly,</hi> to de<g ref="char:EOLhyphen"/>ſtroy and overthrow them, and to have their wills not onely of them, but alſo of all that wiſh them well, is by their pecuniary charmes, flateries, gifts, bribes, promiſes, or deluſions, to put the officers by their, agents upon the invading and infringing the eſ<g ref="char:EOLhyphen"/>ſentiall and common rights of the Army before expreſſed, which within a little while will beget ſuch pride, ſcorne and contempt in the Officers againſt the Souldiers (who to their eternall praiſes be it ſpoken, did the work to their hands, and acted at the beginning like prudent and reſolved men, when all or moſt of the Officers ſate ſtill like ſo many Drones and Snekes) as will breed unquenchable heart-burnings in the Souldiers againſt them, which will ſpeedily draw them into diſcontents and factions againſt them, which of neceſſity will ſpeedily break out into civil broyls amongſt them, &amp; ſo undoubtedly deſtroy them: for what occaſions all the warres in the world, but invading of rights? And what occaſioned all the late broyles betwixt the King and the two Houſes, but the invaſion of rights? And what hath occaſioned the preſent difference betwixt the two Houſes and the Army, but the two Houſes invading their rights, and endeavouring to make them ſlaves, by arbitrary Lording over them, by proclaiming them traytors, for endevouring to acquaint them with their grievances, and invaſion of the common and agreed
+<pb n="15" facs="tcp:160397:8"/>
+of rights before mentioned of the privat Souldiers of the Army by the Councell of Warre, &amp;c. will evedently and apparantly occaſion the ſame betwixt the Officers and Souldiers of the Army: And therefore accurſed be he that is the cauſer or contriver of it. For if it be treaſon in a Kingdome (as <hi>Str<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>fford</hi> and <hi>Canterbury</hi> found it to be) to endevour the ſub<g ref="char:EOLhyphen"/>verſion of the fundamentall Lawes and Rights of the Kingdome; can it bee leſſe then treaſon in the Army for any of their Officers to endeavour the ſubverſion of their eſſenti<g ref="char:EOLhyphen"/>all, fundamentall Lawes, Rights, and agreements expreſſed in their foreſaid <hi>ſolemne Engagements.</hi> And truly, being more then jealous, that it was the ſtudy, labour and pra<g ref="char:EOLhyphen"/>ctice of ſome Officers in the Army, to invade the foreſaid rights of the privat Souldiers of the Army, which if continued in, will deſtroy them, and ſo by conſequence the whole Kingdome and my ſelfe: For if they doe not deliver us from vaſſalage, wee are perfect ſlaves, and ſo made by the treachery of our Servants, our Truſtees in Parliament. And therefore out of love and affection to my native countrey, and my owne Being, I could doe no leſſe then by my writing, &amp;c. endevour the prevention of it, and alſo give a hint of thoſe that my often intelligence told me againe and again, were like to be the moſt per<g ref="char:EOLhyphen"/>nicious inſtruments in it, which is before named. And ſeeing my writing was to no pur<g ref="char:EOLhyphen"/>poſe, nor took not any ſuch effect as I hoped it would, but rather procured me menaces and threats, which I value no more then the wind that blowes, fearing no man in the world, nor caring for the favour or friendſhip of any in the world whatſoever he be, no further then I find him juſt and honeſt, at leaſt morally ſo: And therefore in mercy to my own Being, and the wel-being of my native countrey, I can doe no leſſe then publiſh the fore-going Letters as an Alarum to all the privat Souldiers in the Army, and to all their honeſt Officers, that really, cordially, and heartily deſire the ſettlement of all mens juſt intereſt in <hi>England,</hi> whoſe principles are not deſtructive to cohabitation and humane neighbourhood and ſociety, that they may awake out of their ſluggiſh dreames, before their and the Kingdomes enemies ſurprize them, beat up and deſtroy them in their quar<g ref="char:EOLhyphen"/>ters; which I am confident will ſpeedily and unavoidably be their portion, unleſſe they have extraordinary watchfull eyes over <hi>Nich. Machiavils</hi> chiefe ſonnes amongſt them, and preſerve their fore-mentioned agreement intire, and doe what they intend to doe quickly and reſolvedly, their delayes already having amongſt thouſands that honoured them, ſhaken their reputation: And if any guilded or varniſhed Scribe or Phariſee, as tythe monging <hi>Noy</hi> or <hi>Marſhall</hi> 'who were principall inſtruments to bring the <hi>Scotch,</hi> and the Divels Fetters (the Covenant) into this Kingdome, almoſt to the ruine (I am ſure to the perjury) thereof find themſelves agreiv'd, I deſire to let them know, that <hi>Fiat juſtitia ruat Celum</hi> is my Motto, and if I periſh, it ſhall be in the following of juſtice for juſtice ſake.</p>
+            <closer>
+               <dateline>
+                  <date>16. <hi>of July</hi> 1647.</date>
+               </dateline>
+               <signed>John Lilburne.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:160397:9"/>
+            <head>A Copy of a Letter written to Coll. <hi>Henry Martin,</hi> a Member of the Houſe of Commons, by Leiu. Col. <hi>Iohn Lilburn Iuly.</hi> 20. 1647.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOur Delitory and unjuſt delaying to make my Report to your Houſe according to your duty, hath ſo haſtned forward the ruin &amp; deſtruction of me, my wife &amp; tender infants, and riveted the Houſe of Lords faſt in their tyrannicall domination, <hi>That I cannot now ſtyle you either a friend to me, the Common-wealth, or to justice truth, or honesty, and of all men in the world I ſhould leaſt have dreamed to have found ſuch unworthy and unjust dealing from you;</hi> But yet notwithſtanding, by reaſon of a <hi>Paper come from the Army,</hi> a copy of which I have even now ſeen, <hi>(which deſires of the Houſe of Commons that I, &amp;c. may immediately, and legally be tried, or if the great Affaires of the Kingdome will not ſuffer them to debate my buſineſſe at preſent, that then I may be bailed,)</hi> I therefore deſire you to acquaint the Houſe, that the Law of the Land is cleare and plaine, that the Lords in the caſe in controverſie be<g ref="char:EOLhyphen"/>twixt me and them, <hi>have no Juriſdiction at all over me, or any Commoner of England what<g ref="char:EOLhyphen"/>ſoever,</hi> and I have juſtly proteſted againſt them, and legally ap<g ref="char:EOLhyphen"/>pealed<note n="*" place="margin">Which Appeale you may reade in the Free mans Freedome vindicated, <hi>pag 9, 10, 11.</hi>
+               </note> above a year ago to your Houſe for juſtice againſt their inſufferable uſurpations and incrochments; <hi>(the enjoyment of which is principally hindred by your ſelfe)</hi> and therefore I re<g ref="char:EOLhyphen"/>quire according to Law, juſtice equity, conſcience and reaſon; either to be juſtified or condemned by your Houſe, which is done in an houre there being nothing wanting but your Report of it, and their Jud<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ement upon it. And as for baile, I wil by the goodneſſe of God be cut in a thouſand pieces, before I will in this caſe ſtoop the bredth of one heire, or do any act that in my owne underſtanding ſhall declare my owning of their <hi>Iuriſdiction in the leaſt over me,</hi> which my giving baile, or ſo much as my <hi>Parroule</hi> would do, which in my apprehenſion would be a granting that their moſt devilliſh tyrannicall illegall ſentenſing of mee, to pay 4000 l', <hi>and to be ſeven yeares in priſon, and for ever to be d<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſranchiſed of the Liberties of an Engliſh man, were juſt and legall:</hi> And therefore if you will diſcharge your duty after above a years unjuſt delay in making my Report to your Houſe, <hi>I ſhall yet thanke you</hi> but if you will not <hi>the blood, and ruine of mee and mine, be upon the head of you and your poſterity,</hi> and the righteous and juſt God of heaven and earth, either incline your heart to make my Report for me now at laſt (let the iſſue be what it will be, I care not, <hi>as I fully told you in my laſt large Epiſtle to you of the</hi> 31. <hi>of May</hi> 1647. <hi>now in print</hi> pag 4, 5, 6.) or elſe ſpeedily avenge my cruell ſufferings (by your means) with<g ref="char:EOLhyphen"/>out mercy or compaſſion upon you and yours. Sir in ſhort, if your Houſe will (as they ought) give me my Liberty, without intanglements, I will take it, if not, I am reſolved to ſticke ſo cloſe to my juſt cauſe, <hi>till I be forced to eat my own fleſh</hi> for want of bread, which in the eye of humaine reaſon cannot be long before I be forced to doe it, but aſſure your ſelfe that if the putting forth all the reſolution in a man that for this ten years, <hi>never feared death, tortures, nor torments;</hi> (no, nor yet knew what belong'd to baſe feare,) <hi>will ſave me or do me good,</hi> I will by the ſtrength of God leave no meanes whatſoever unattempted or unaſſaid, <hi>though it loſe me all the earthly props and relations I have in the world;</hi> and I adviſe you, as a friend, to look well to your ſelf, &amp; do not continue ſuch inſupportable burthens upon mee <hi>by your de<g ref="char:EOLhyphen"/>lay of juſtice,</hi> after ſuffering ſhip-wracke of my eſtate and fortunes, by the grand tyrannicall Tyrants of <hi>England, for above ten yeares together,</hi> as I am not able longer to beare without evident deſtruction to me &amp; mine, &amp; ſo at preſent I reſt, &amp; wiſh I could ſubſcribe my ſelf:</p>
+            <closer>
+               <signed>Your Servant John Lilburne.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>From my cauſleſſe and moſt unjuſt Captivity in the Tower of</hi> London, <hi>the place of my fixed and reſolved reſolution, to ſpend the laſt drop of my heart blood againſt the Houſe of Lords Vſurpations over the legall rights and freedoms of all the Commons of</hi> England, <hi>Iuly</hi> 20 1647.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
